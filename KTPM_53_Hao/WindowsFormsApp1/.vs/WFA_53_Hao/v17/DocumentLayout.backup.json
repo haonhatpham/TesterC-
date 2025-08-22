@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KTPM_53_Hao\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC2D9603-075A-43E9-999A-20FECBB639A0}|HinhTronTest_53_Hao\\HinhTronTest_53_Hao.csproj|d:\\ktpm_53_hao\\windowsformsapp1\\hinhtrontest_53_hao\\unittestht_53_hao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC2D9603-075A-43E9-999A-20FECBB639A0}|HinhTronTest_53_Hao\\HinhTronTest_53_Hao.csproj|solutionrelative:hinhtrontest_53_hao\\unittestht_53_hao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A5E57B-0D40-4605-9359-9D6E363C2597}|WindowsFormsApp1\\WFA_53_Hao_NUNIT.csproj|D:\\KTPM_53_Hao\\WindowsFormsApp1\\windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29A5E57B-0D40-4605-9359-9D6E363C2597}|WindowsFormsApp1\\WFA_53_Hao_NUNIT.csproj|solutionrelative:windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A5E57B-0D40-4605-9359-9D6E363C2597}|WindowsFormsApp1\\WFA_53_Hao_NUNIT.csproj|D:\\KTPM_53_Hao\\WindowsFormsApp1\\windowsformsapp1\\hinhtron_53_hao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29A5E57B-0D40-4605-9359-9D6E363C2597}|WindowsFormsApp1\\WFA_53_Hao_NUNIT.csproj|solutionrelative:windowsformsapp1\\hinhtron_53_hao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44671C76-87DB-43F0-8CC0-96448A8CED7C}|GithubTest_53_Hao\\GithubTest_53_Hao.csproj|D:\\KTPM_53_Hao\\WindowsFormsApp1\\githubtest_53_hao\\testdelete_53_hao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44671C76-87DB-43F0-8CC0-96448A8CED7C}|GithubTest_53_Hao\\GithubTest_53_Hao.csproj|solutionrelative:githubtest_53_hao\\testdelete_53_hao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44671C76-87DB-43F0-8CC0-96448A8CED7C}|GithubTest_53_Hao\\GithubTest_53_Hao.csproj|D:\\KTPM_53_Hao\\WindowsFormsApp1\\githubtest_53_hao\\testsearch_53_hao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44671C76-87DB-43F0-8CC0-96448A8CED7C}|GithubTest_53_Hao\\GithubTest_53_Hao.csproj|solutionrelative:githubtest_53_hao\\testsearch_53_hao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44671C76-87DB-43F0-8CC0-96448A8CED7C}|GithubTest_53_Hao\\GithubTest_53_Hao.csproj|D:\\KTPM_53_Hao\\WindowsFormsApp1\\githubtest_53_hao\\testcreate_53_hao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44671C76-87DB-43F0-8CC0-96448A8CED7C}|GithubTest_53_Hao\\GithubTest_53_Hao.csproj|solutionrelative:githubtest_53_hao\\testcreate_53_hao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44671C76-87DB-43F0-8CC0-96448A8CED7C}|GithubTest_53_Hao\\GithubTest_53_Hao.csproj|D:\\KTPM_53_Hao\\WindowsFormsApp1\\githubtest_53_hao\\phuongthucchung_53_hao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44671C76-87DB-43F0-8CC0-96448A8CED7C}|GithubTest_53_Hao\\GithubTest_53_Hao.csproj|solutionrelative:githubtest_53_hao\\phuongthucchung_53_hao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTestHT_53_Hao.cs",
+              "DocumentMoniker": "D:\\KTPM_53_Hao\\WindowsFormsApp1\\HinhTronTest_53_Hao\\UnitTestHT_53_Hao.cs",
+              "RelativeDocumentMoniker": "HinhTronTest_53_Hao\\UnitTestHT_53_Hao.cs",
+              "ToolTip": "D:\\KTPM_53_Hao\\WindowsFormsApp1\\HinhTronTest_53_Hao\\UnitTestHT_53_Hao.cs",
+              "RelativeToolTip": "HinhTronTest_53_Hao\\UnitTestHT_53_Hao.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T00:25:57.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KTPM_53_Hao\\WindowsFormsApp1\\WindowsFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Program.cs",
+              "ToolTip": "D:\\KTPM_53_Hao\\WindowsFormsApp1\\WindowsFormsApp1\\Program.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T00:25:46.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HinhTron_53_Hao.cs",
+              "DocumentMoniker": "D:\\KTPM_53_Hao\\WindowsFormsApp1\\WindowsFormsApp1\\HinhTron_53_Hao.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\HinhTron_53_Hao.cs",
+              "ToolTip": "D:\\KTPM_53_Hao\\WindowsFormsApp1\\WindowsFormsApp1\\HinhTron_53_Hao.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\HinhTron_53_Hao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T00:25:42.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PhuongThucChung_53_Hao.cs",
+              "DocumentMoniker": "D:\\KTPM_53_Hao\\WindowsFormsApp1\\GithubTest_53_Hao\\PhuongThucChung_53_Hao.cs",
+              "RelativeDocumentMoniker": "GithubTest_53_Hao\\PhuongThucChung_53_Hao.cs",
+              "ToolTip": "D:\\KTPM_53_Hao\\WindowsFormsApp1\\GithubTest_53_Hao\\PhuongThucChung_53_Hao.cs",
+              "RelativeToolTip": "GithubTest_53_Hao\\PhuongThucChung_53_Hao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T07:14:36.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TestCreate_53_Hao.cs",
+              "DocumentMoniker": "D:\\KTPM_53_Hao\\WindowsFormsApp1\\GithubTest_53_Hao\\TestCreate_53_Hao.cs",
+              "RelativeDocumentMoniker": "GithubTest_53_Hao\\TestCreate_53_Hao.cs",
+              "ToolTip": "D:\\KTPM_53_Hao\\WindowsFormsApp1\\GithubTest_53_Hao\\TestCreate_53_Hao.cs",
+              "RelativeToolTip": "GithubTest_53_Hao\\TestCreate_53_Hao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T11:23:57.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestSearch_53_Hao.cs",
+              "DocumentMoniker": "D:\\KTPM_53_Hao\\WindowsFormsApp1\\GithubTest_53_Hao\\TestSearch_53_Hao.cs",
+              "RelativeDocumentMoniker": "GithubTest_53_Hao\\TestSearch_53_Hao.cs",
+              "ToolTip": "D:\\KTPM_53_Hao\\WindowsFormsApp1\\GithubTest_53_Hao\\TestSearch_53_Hao.cs",
+              "RelativeToolTip": "GithubTest_53_Hao\\TestSearch_53_Hao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T07:18:27.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestDelete_53_Hao.cs",
+              "DocumentMoniker": "D:\\KTPM_53_Hao\\WindowsFormsApp1\\GithubTest_53_Hao\\TestDelete_53_Hao.cs",
+              "RelativeDocumentMoniker": "GithubTest_53_Hao\\TestDelete_53_Hao.cs",
+              "ToolTip": "D:\\KTPM_53_Hao\\WindowsFormsApp1\\GithubTest_53_Hao\\TestDelete_53_Hao.cs",
+              "RelativeToolTip": "GithubTest_53_Hao\\TestDelete_53_Hao.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAAwKMAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:50:14.609Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

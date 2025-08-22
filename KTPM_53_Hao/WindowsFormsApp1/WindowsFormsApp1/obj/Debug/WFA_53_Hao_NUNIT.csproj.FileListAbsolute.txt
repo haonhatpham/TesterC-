@@ -1,0 +1,10 @@
+D:\KTPM_53_Hao\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\KTPM_53_Hao\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\KTPM_53_Hao\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\KTPM_53_Hao\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WFA_53_Hao_NUNIT.csproj.AssemblyReference.cache
+D:\KTPM_53_Hao\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmHT_53_Hao.resources
+D:\KTPM_53_Hao\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\KTPM_53_Hao\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WFA_53_Hao_NUNIT.csproj.GenerateResource.cache
+D:\KTPM_53_Hao\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WFA_53_Hao_NUNIT.csproj.CoreCompileInputs.cache
+D:\KTPM_53_Hao\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\KTPM_53_Hao\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
